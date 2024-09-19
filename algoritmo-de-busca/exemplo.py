@@ -1,3 +1,4 @@
+# Busca por seleção
 def buscaMenor(arr):
     menor = arr[0]
     menor_indice = 0
